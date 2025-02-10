@@ -28,6 +28,6 @@
     overall sales,Hourly Revenue analysis.
 
    ## Dashboard
-   - <a href= "https://github.com/Harivardhanan13/Projects-BA/blob/main/Screenshot%202025-02-10%20132738.png" Dashboard </a>
+   https://github.com/Harivardhanan13/Projects-BA/blob/main/Screenshot%202025-02-10%20132738.png
    
     
