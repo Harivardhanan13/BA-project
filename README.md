@@ -33,7 +33,7 @@
 
    ## Project Insights
 
-   -> Total Profit (2020 and 2021) is 10M and total Revenue is 15M
+   -> Total Profit (2021 and 2022) is 10M and total Revenue is 15M
 
    -> In hourly Sales data Most profitable hours (both 2020 and 2021) are 16:00 and 17:00 
 
