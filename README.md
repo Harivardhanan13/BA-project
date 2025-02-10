@@ -18,16 +18,19 @@
 
   ## Project Flow
 
- -> Imported the flat file to SQL for Data cleaning and data modeling
+ -> Imported the flat file to SQL for Data cleaning and Data modeling
 
- -> joined and Edited the the table according to the requirements
+ -> Joined and Edited the table according to the requirements
 
  -> Created calculations in SQL (Profit and Revenue)
 
- -> Imported the Query to power BI inorder tyo create a Dashboard with sales report of 2021 and 2022 along with KPI metrics, Rider demographics of total sales, Seasonal Revenue, Profit and Revenue trends with 
-    overall sales,Hourly Revenue analysis.
+ -> Imported the Query to power BI inorder to create a Dashboard with sales report of 2021 and 2022 along with KPI metrics, Rider demographics of total sales, Seasonal Revenue, Profit and Revenue trends with 
+    overall sales and Hourly Revenue analysis.
 
    ## Dashboard
-   https://github.com/Harivardhanan13/Projects-BA/blob/main/Screenshot%202025-02-10%20132738.png
+   ![Screenshot 2025-02-10 132738](https://github.com/user-attachments/assets/8fd37452-9e47-4cfb-9551-03062f4e200b)
+
+
+   ## Project Insights
    
     
