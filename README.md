@@ -2,8 +2,8 @@
 ## Project objectives
  Need to create a dashboard that displays sales report of 2021 and 2022 with KPI metrics.
 
-## Database 
- https://github.com/Harivardhanan13/Projects-BA/tree/main/Dataset
+## Database used
+ - <a href = "https://github.com/Harivardhanan13/Projects-BA/tree/main/Dataset"> Database</a>
  
 
 ## Requirements
