@@ -32,5 +32,21 @@
 
 
    ## Project Insights
+
+   -> Total Profit (2020 and 2021) is 10M and total Revenue is 15M
+
+   -> In hourly Sales data Most profitable hours (both 2020 and 2021) are 16:00 and 17:00 
+
+   -> In Registered Category Profit is much higher than Casual Category
+
+   -> Price has increased by 25% in 2022 💹
+
+   -> Rider difference by year is 64% 💹
+
+   -> Even though price increased still managed to get 64% demand
+
+   -> Price Elasticity is 2.56%
+
+   -> As per this analysis we can increase the price by 10% to 15% but need to Moniter the market and Customer Feedback for any Future Adjutments.
    
     
