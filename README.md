@@ -1,12 +1,12 @@
 # Analysis for Bike sales 2021-2022
-##Project objectives
- Need to create a dashboard that displays sales report of 2021 and 2022 and KPI metrics.
+## Project objectives
+ Need to create a dashboard that displays sales report of 2021 and 2022 with KPI metrics.
 
-##Database 
+## Database 
 
  
 
-##Requirements
+## Requirements
 
   -> Hourly Revenue analysis.
  
