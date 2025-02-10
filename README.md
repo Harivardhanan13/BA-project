@@ -27,5 +27,6 @@
  -> Imported the Query to power BI inorder tyo create a Dashboard with sales report of 2021 and 2022 along with KPI metrics, Rider demographics of total sales, Seasonal Revenue, Profit and Revenue trends with 
     overall sales,Hourly Revenue analysis.
 
- -> DashBoard 
+ -> Dashboard 
+    - <a href= "https://github.com/Harivardhanan13/Projects-BA/blob/main/Screenshot%202025-02-10%20132738.png" click here</a>
     
